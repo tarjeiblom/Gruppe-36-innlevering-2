@@ -7,7 +7,7 @@ public class Tabeller {
 
 		// TODO
 		oden skrivUt ikke implementert");
-
+d
 	}
 
 	// b)
