@@ -1,4 +1,4 @@
-package no.hvl.dat100.matriser;
+package no.hvl.dat100.matriser.matriser;
 
 public class Matriser {
 
