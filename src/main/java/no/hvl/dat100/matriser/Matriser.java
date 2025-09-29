@@ -47,6 +47,7 @@ public class Matriser {
 
 		// TODO
 		throw new UnsupportedOperationException("Metoden multipliser ikke implementert");
-	
+
+
 	}
 }
